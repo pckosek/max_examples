@@ -3,8 +3,9 @@
 ### Here are the patches contained in this repo:
 
 <!--- ---------------------------- --->
-Patch 1 - (Bang)
-[![01_bang.gif](./photos/01_bang.gif)](./01_bang.maxpat)
+Patch 1 - (Bang)  
+[![01_bang.png](./photos/01_bang.png)](./01_bang.maxpat)  
+[(see it in action)](./photos/01_bang.gif)
 
 <!--- ---------------------------- --->
 Patch 2 - (Metro)  
