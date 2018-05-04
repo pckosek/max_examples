@@ -4,12 +4,12 @@
 		"appversion" : 		{
 			"major" : 7,
 			"minor" : 3,
-			"revision" : 4,
+			"revision" : 5,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 496.0, 343.0, 566.0, 408.0 ],
+		"rect" : [ 282.0, 327.0, 503.0, 393.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -43,8 +43,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 186.0, 259.0, 269.0, 34.0 ],
-					"presentation_rect" : [ 188.0, 259.0, 0.0, 0.0 ],
+					"patching_rect" : [ 181.0, 259.0, 269.0, 34.0 ],
 					"style" : "",
 					"text" : "makenote also sends two clumps of messages; one for note on, and one for note off"
 				}
@@ -57,8 +56,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 186.0, 223.0, 269.0, 34.0 ],
-					"presentation_rect" : [ 208.0, 252.0, 0.0, 0.0 ],
+					"patching_rect" : [ 181.0, 223.0, 271.0, 34.0 ],
 					"style" : "",
 					"text" : "makenote has two outputs, left for pitch and right for velocity."
 				}
@@ -71,7 +69,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 45.5, 67.0, 90.0, 62.0 ],
+					"patching_rect" : [ 40.5, 67.0, 90.0, 62.0 ],
 					"style" : "",
 					"text" : "multiple parameters can be passed as a message"
 				}
@@ -85,7 +83,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 206.0, 193.0, 50.0, 22.0 ],
+					"patching_rect" : [ 201.0, 193.0, 50.0, 22.0 ],
 					"style" : ""
 				}
 
@@ -97,7 +95,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 67.0, 148.0, 47.0, 22.0 ],
+					"patching_rect" : [ 62.0, 148.0, 47.0, 22.0 ],
 					"style" : "",
 					"text" : "60 100"
 				}
@@ -112,7 +110,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 156.0, 39.0, 20.0, 140.0 ],
+					"patching_rect" : [ 151.0, 39.0, 20.0, 140.0 ],
 					"size" : 500.0,
 					"style" : ""
 				}
@@ -125,7 +123,7 @@
 					"numinlets" : 3,
 					"numoutlets" : 2,
 					"outlettype" : [ "float", "float" ],
-					"patching_rect" : [ 67.0, 223.0, 108.0, 22.0 ],
+					"patching_rect" : [ 62.0, 223.0, 108.0, 22.0 ],
 					"style" : "",
 					"text" : "makenote"
 				}
@@ -137,7 +135,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 3,
 					"numoutlets" : 0,
-					"patching_rect" : [ 67.0, 302.0, 197.0, 22.0 ],
+					"patching_rect" : [ 62.0, 302.0, 197.0, 22.0 ],
 					"style" : "",
 					"text" : "noteout a"
 				}
@@ -150,7 +148,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 186.0, 81.0, 90.0, 34.0 ],
+					"patching_rect" : [ 181.0, 81.0, 90.0, 34.0 ],
 					"style" : "",
 					"text" : "Slider for note duration"
 				}
@@ -166,7 +164,7 @@
 					"mode" : 1,
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 35.5, 26.0, 433.0, 336.0 ],
+					"patching_rect" : [ 30.5, 26.0, 433.0, 336.0 ],
 					"proportion" : 0.39,
 					"pt1" : [ 1.079208, -0.104348 ],
 					"pt2" : [ -0.29703, 0.573913 ],

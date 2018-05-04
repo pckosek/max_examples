@@ -3,11 +3,11 @@
 ### Here are the patches contained in this repo:
 
 <!--- ---------------------------- --->
-Patch 1 - (Note Out)  
+Patch 1 - (Note Out using makenote) [(see it in action)](./videos/01_noteout.mp4)   
 ![Patch 1](./photos/01_noteout.png)
 
 <!--- ---------------------------- --->
-Patch 2 - (Note On and Off)  
+Patch 2 - (Note On and Off) [(see it in action)](./videos/02_note_on_off.mp4)   
 ![Patch 2](./photos/02_note_on_off.png)
 
 <!--- ---------------------------- --->
