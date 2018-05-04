@@ -4,12 +4,12 @@
 		"appversion" : 		{
 			"major" : 7,
 			"minor" : 3,
-			"revision" : 4,
+			"revision" : 5,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 70.0, 166.0, 612.0, 421.0 ],
+		"rect" : [ 70.0, 166.0, 348.0, 268.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -38,15 +38,28 @@
 		"subpatcher_template" : "",
 		"boxes" : [ 			{
 				"box" : 				{
-					"id" : "obj-10",
+					"id" : "obj-1",
 					"linecount" : 3,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 186.0, 139.0, 150.0, 48.0 ],
-					"presentation_rect" : [ 186.0, 136.0, 0.0, 0.0 ],
+					"patching_rect" : [ 130.0, 37.0, 150.0, 48.0 ],
+					"presentation_rect" : [ 131.0, 37.0, 0.0, 0.0 ],
 					"style" : "",
-					"text" : "You can ctrl-click a bang\nto run it from an unlocked patcher"
+					"text" : "patches have two modes: (unlocked) for editing\n(locked)     for running"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-10",
+					"linecount" : 4,
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 130.0, 146.0, 146.0, 62.0 ],
+					"style" : "",
+					"text" : "You can ctrl-click an object like bang\nto run it from an unlocked patcher"
 				}
 
 			}
@@ -57,7 +70,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 186.0, 83.0, 150.0, 34.0 ],
+					"patching_rect" : [ 130.0, 93.0, 150.0, 34.0 ],
 					"style" : "",
 					"text" : "Press ctrl-e to lock and unlock the patcher."
 				}
@@ -70,7 +83,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
-					"patching_rect" : [ 106.0, 202.0, 24.0, 24.0 ],
+					"patching_rect" : [ 66.0, 170.0, 24.0, 24.0 ],
 					"style" : ""
 				}
 
@@ -82,7 +95,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
-					"patching_rect" : [ 106.0, 83.0, 24.0, 24.0 ],
+					"patching_rect" : [ 66.0, 53.0, 24.0, 24.0 ],
 					"style" : ""
 				}
 
