@@ -4,12 +4,12 @@
 		"appversion" : 		{
 			"major" : 7,
 			"minor" : 3,
-			"revision" : 4,
+			"revision" : 5,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 66.0, 170.0, 464.0, 408.0 ],
+		"rect" : [ 1159.0, 209.0, 464.0, 408.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -39,28 +39,25 @@
 		"boxes" : [ 			{
 				"box" : 				{
 					"id" : "obj-26",
-					"linecount" : 2,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 226.0, 259.0, 150.0, 34.0 ],
-					"presentation_rect" : [ 229.0, 259.0, 0.0, 0.0 ],
+					"patching_rect" : [ 55.5, 367.0, 251.0, 20.0 ],
 					"style" : "",
-					"text" : "alt-drag an object to copy it"
+					"text" : "right to left (patch 3) will print x before y"
 				}
 
 			}
 , 			{
 				"box" : 				{
 					"id" : "obj-23",
-					"linecount" : 2,
+					"linecount" : 3,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 226.0, 211.0, 150.0, 34.0 ],
-					"presentation_rect" : [ 250.0, 245.0, 0.0, 0.0 ],
+					"patching_rect" : [ 218.0, 176.0, 150.0, 48.0 ],
 					"style" : "",
-					"text" : "alt-click on an object to bring up its help file"
+					"text" : "alt-click on an object to bring up its help file\n(example 8)"
 				}
 
 			}
@@ -97,8 +94,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 226.0, 148.0, 150.0, 48.0 ],
-					"presentation_rect" : [ 104.0, 227.0, 0.0, 0.0 ],
+					"patching_rect" : [ 218.0, 112.0, 150.0, 48.0 ],
 					"style" : "",
 					"text" : "objects have lots of useful parameters  and are very well documented."
 				}
