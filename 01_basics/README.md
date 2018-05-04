@@ -1,6 +1,6 @@
-## Elementary Forms
+## Elementary Objects and Operations
 
-### Here are the patches contained in this repo:
+### This repo has contains the following matches, which outline basic operations in MAX:
 
 <!--- ---------------------------- --->
 Patch 1 - (Bang) [(see it in action)](./photos/01_bang.gif)   
