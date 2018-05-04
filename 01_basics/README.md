@@ -4,7 +4,7 @@
 
 <!--- ---------------------------- --->
 Patch 1 - (Bang)  
-![./01_bang.maxpat](./photos/01_bang.png)
+[![01_bang.png](./photos/01_bang.png)](./01_bang.maxpat)
 
 <!--- ---------------------------- --->
 Patch 2 - (Metro)  
